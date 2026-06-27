@@ -1,6 +1,10 @@
 
 // Type exports for consumers
 // Add specific types as needed
+/**
+ * djb2
+ * @param str
+ */
 export function djb2(str: string): number {
   if (str === null || str === undefined) throw new Error("Invalid input");
   let hash = 5381;
