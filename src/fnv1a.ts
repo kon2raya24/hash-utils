@@ -1,3 +1,6 @@
+
+// Type exports for consumers
+// Add specific types as needed
 /**
  * fnv1a
  * @param str
