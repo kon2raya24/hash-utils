@@ -20,3 +20,11 @@ npm install hash-utils
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'hash-utils';
+// See API section for available functions
+```
